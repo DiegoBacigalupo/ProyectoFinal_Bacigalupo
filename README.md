@@ -1,4 +1,4 @@
 # ProyectoFinal_Bacigalupo
-#Por favor, envieme a la reentrega. Debido a contratiempos personales. Estoy en el proceso de terminar el proyecto. Pronto lo subire a este repositorio. Mil disculpas.
+#Debido a contratiempos personales no pude llegar con la entrega. Estoy en el proceso de terminar el proyecto. Pronto lo subire a este repositorio. Mil disculpas.
 
 
